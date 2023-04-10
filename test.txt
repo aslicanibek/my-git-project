@@ -1,3 +1,8 @@
 this is the first file in my git repo
 adding a new line
 emergency fixing of a bug
+1
+2
+3
+4
+adding one more additional line
