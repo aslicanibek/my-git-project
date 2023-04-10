@@ -6,3 +6,4 @@ emergency fixing of a bug
 3
 4
 adding one more additional line
+adding one more additional line after connecting with remote repository
