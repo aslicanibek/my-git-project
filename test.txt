@@ -1,2 +1,3 @@
 this is the first file in my git repo
 adding a new line
+emergency fixing of a bug
